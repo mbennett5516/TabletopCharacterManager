@@ -1,4 +1,4 @@
-package com.bennett.TabletopCharacterManager;
+package com.bennett.tabletopcharactermanager;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
